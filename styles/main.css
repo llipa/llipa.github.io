@@ -760,9 +760,17 @@ a {
 }
 
       .sidebar {
-        width: 500px;
+        width: 750px;
       }
       .main-container {
-        margin-left: 500px;
+        margin-left: 750px;
+      }
+    
+      .sidebar .top-container .site-nav {
+        color: #495057;
+      }
+    
+      body {
+        background: #f1f3f5;
       }
     
