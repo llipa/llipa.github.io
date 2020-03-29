@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://llipa.github.io</id>
     <title>LLIPA&apos;S BLOG</title>
-    <updated>2020-03-29T14:44:02.912Z</updated>
+    <updated>2020-03-29T14:50:19.934Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://llipa.github.io"/>
     <link rel="self" href="https://llipa.github.io/atom.xml"/>
@@ -76,17 +76,23 @@
 <li>CCD（电荷耦合摄像器件）或 CMOS（互补型金属氧化物半导体摄像器件）</li>
 <li>光机扫描成像的探测器单元及探测器阵列：内光电效应或热电效应</li>
 </ol>
-<p>##光电成像器件的特性<br>
-####转换特性</p>
+<h2 id="光电成像器件的特性">光电成像器件的特性</h2>
+<h4 id="转换特性">转换特性</h4>
 <ul>
 <li>转换系数（增益）</li>
-<li>光电灵敏度（响应率）<br>
-####时间响应特性</li>
+<li>光电灵敏度（响应率）</li>
+</ul>
+<h4 id="时间响应特性">时间响应特性</h4>
+<ul>
 <li>惰性：输入截止后余晖的衰减呈负指数函数形式时，可用余晖的时间常数来表示惰性。</li>
-<li>脉冲响应函数与瞬时调制传递函数：光电转换上升过程的滞后远小于下降过程的滞后。<br>
-####噪声特性</li>
-<li>信噪比：信号强度与噪声强度的比值<br>
-####图像分辨特性</li>
+<li>脉冲响应函数与瞬时调制传递函数：光电转换上升过程的滞后远小于下降过程的滞后。</li>
+</ul>
+<h4 id="噪声特性">噪声特性</h4>
+<ul>
+<li>信噪比：信号强度与噪声强度的比值</li>
+</ul>
+<h4 id="图像分辨特性">图像分辨特性</h4>
+<ul>
 <li><mark>分辨率</mark>：<br>
 光电成像过程由于种种原因而产生像差，使输出图像的亮度分布不能准确再现输入图像的照度分布。定量描述这种图像失真程度的性能指标通常采用分辨力和光学传递函数（或调制传递函数）。</li>
 <li><mark>分辨力</mark>：<br>
